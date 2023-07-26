@@ -1,0 +1,3 @@
+This program analyzes specific dataset and gives you info about how well the ml model performed.
+Example of usage you can find in notebook.ipynb file.
+Short description: there is a class called ResultsAnalysis(declared in analysis.py), that you init passing your data dict(example of dict can de found at https://ai-process-sandy.s3.eu-west-1.amazonaws.com/purge/deviation.json), than if you call analyze function that returns paths to 2 generated plots(first shows you info about examples' label distribution, second shows you right/wrong predictions' bar).

@@ -1,0 +1,5 @@
+*_env/
+__pycache__/
+main.py
+.idea/
+.ipynb*/
